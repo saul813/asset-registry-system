@@ -12,6 +12,9 @@ target/
 *.iws
 *.iml
 *.ipr
+.idea
+.smarttomcat
+*.log
 
 ### Eclipse ###
 .apt_generated
